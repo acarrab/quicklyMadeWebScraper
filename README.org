@@ -1,4 +1,6 @@
 * Quickly made webscraper
+=made for a friend so he could read through pdfs from a website offline=
+
 Run it with python 3. Also install the dependencies.
 
 #+BEGIN_SRC bash
