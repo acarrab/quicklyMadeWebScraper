@@ -1,0 +1,14 @@
+* Quickly made webscraper
+Run it with python 3. Also install the dependencies.
+
+#+BEGIN_SRC bash
+Compy:~/Desktop/quicklyMadeWebScraper$ sudo pip install pexpect
+Compy:~/Desktop/quicklyMadeWebScraper$ sudo pip install regex
+Compy:~/Desktop/quicklyMadeWebScraper$ sudo pip install requests
+#+END_SRC
+
+Then you can just run with
+
+#+BEGIN_SRC bash
+Compy:~/Desktop/quicklyMadeWebScraper$ python3 getThem.py
+#+END_SRC
